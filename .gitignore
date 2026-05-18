@@ -1,0 +1,5 @@
+# Nothing build-related lives here — this repo holds only the device
+# library and the download page. Releases (executables) are uploaded by
+# the CI pipeline, not committed.
+.DS_Store
+Thumbs.db
