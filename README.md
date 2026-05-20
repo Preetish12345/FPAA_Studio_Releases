@@ -3,7 +3,7 @@
 A Vivado-style IDE for **FPAA** (Field-Programmable Analog Array) design —
 a schematic editor, compiler, and device programmer in one application.
 
-> **Schematic ▸ Compile ▸ Program**# FPAA Studio
+> **Schematic ▸ Compile ▸ Program**
 
 A Vivado-style IDE for **FPAA** (Field-Programmable Analog Array) design —
 a schematic editor, compiler, and device programmer in one application.
