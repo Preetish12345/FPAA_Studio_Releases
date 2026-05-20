@@ -9,7 +9,7 @@
         "11": 230400
     },
     "verify" : 0,
-    "waveform" : 1,
+    "waveform" : 0,
     "waveform_bits": 8,
     "waveform_buffer": "1024",
     "waveform_sample_hz": 1000,
